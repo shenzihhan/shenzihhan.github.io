@@ -40,5 +40,5 @@ layout: default
 ---
 
 <div style="text-align: center; margin-top: 3rem; font-size: 0.9rem; color: #aaa;">
-  © 2025 Zih-Han Shen · Powered by GitHub Pages
+  © 2025 Zih-Han Shen · Built with ❤️ using GitHub Pages
 </div>
