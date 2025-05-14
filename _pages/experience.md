@@ -109,13 +109,15 @@ permalink: /experience/
   <p>
     I’m a fast learner, deeply motivated, and always seeking to contribute to organizations that value <strong>analytical thinking, innovation, and purpose-driven outcomes</strong>.
   </p>
+  <p>
+    I’m also well-suited for entry-level roles in <strong>AP accounting, finance operations, or financial analysis</strong>, where I can leverage both my business background and analytical mindset to support reporting, reconciliation, and continuous improvement.
+  </p>
   <p>I’m eager to grow in roles such as:</p>
   <ul>
     <li>Business Analyst / Data Analyst</li>
     <li>Product or Strategy Analyst</li>
     <li>Analytics in Finance, Healthcare, or Social Impact Tech</li>
+    <li>Entry-Level AP / Financial Analyst Roles</li>
   </ul>
   <p>If you're looking for someone who combines <strong>insightful analysis</strong> with <strong>real-world adaptability</strong>, I’d love to connect.</p>
-</div>
-
 </div>
