@@ -17,8 +17,8 @@ Partnered with Grand Canyon Council, Scouting America, to reverse donation stagn
 ---
 
 ### AI-Powered Sentiment and Customer Insight Analysis for California Bars During COVID-19
-Applied sentiment analysis with BERT and VADER on 119K+ Yelp reviews to uncover customer emotions, loyalty patterns, and behavioral trends, supporting recovery planning for bar owners.
-[GitHub Repository](https://github.com/shenzihhan/covid-bar-sentiment-nlp/blob/main/README.md)  
+- Applied sentiment analysis with BERT and VADER on 119K+ Yelp reviews to uncover customer emotions, loyalty patterns, and behavioral trends, supporting recovery planning for bar owners.
+- [GitHub Repository](https://github.com/shenzihhan/covid-bar-sentiment-nlp/blob/main/README.md)  
 
 **Skills:** Sentiment Analysis · Natural Language Processing (NLP)
 
