@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  {{ site.seo_tag }}
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 0 2rem;
+      max-width: 960px;
+      margin-inline: auto;
+    }
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: white;
+      border-bottom: 1px solid #ddd;
+      padding: 0.8rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .site-title {
+      font-weight: bold;
+      font-size: 1.3rem;
+      color: #222;
+      text-decoration: none;
+    }
+    .nav-links a {
+      margin-left: 1.5rem;
+      text-decoration: none;
+      color: #1a73e8;
+      font-weight: 500;
+    }
+    .nav-links a:hover {
+      text-decoration: underline;
+    }
+    .content {
+      padding-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-title" href="{{ '/' | relative_url }}">Zih-Han Shen</a>
+    <nav class="nav-links">
+      <a href="{{ '/about/' | relative_url }}">About Me</a>
+      <a href="{{ '/projects/' | relative_url }}">Projects</a>
+      <a href="{{ '/experience/' | relative_url }}">Experience</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    {{ content }}
+  </main>
+
+  <footer style="text-align:center; margin-top: 3rem; font-size: 0.9rem; color: #888;">
+    © {{ site.time | date: '%Y' }} Zih-Han Shen — Built with ❤️ using GitHub Pages
+  </footer>
+</body>
+</html>
