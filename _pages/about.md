@@ -54,13 +54,15 @@ ul.skills, ul.contact-list {
   
   <div class="about-content">
 
-Hi, I’m **Zih-Han Shen**, a Master of Business Analytics graduate from Arizona State University’s W. P. Carey School of Business, with a strong foundation in data analytics, financial optimization, and strategic problem-solving.
+<h2 style="font-size: 1.6rem; font-weight: bold; margin-top: 2rem;">About Me</h2>
 
-I am deeply motivated by the power of data to drive meaningful change—not just for businesses, but for society. My interests lie in high-impact industries such as **healthcare, technology, education, and renewable energy**, where data can be used to improve lives, increase sustainability, and fuel innovation.
+Hi, I’m <strong>Zih-Han Shen</strong>, a Master of Business Analytics graduate from Arizona State University’s W. P. Carey School of Business, with a strong foundation in data analytics, financial optimization, and strategic problem-solving.
 
-At **Parexel**, a global biopharmaceutical services company, I identified inefficiencies in financial workflows and implemented process improvements that resulted in over **$50,000 in annual cost savings**. This experience sharpened my ability to bridge business needs with technical solutions—delivering tangible, data-driven results.
+I am deeply motivated by the power of data to drive meaningful change—not just for businesses, but for society. My interests lie in high-impact industries such as <strong>healthcare, technology, education, and renewable energy</strong>, where data can be used to improve lives, increase sustainability, and fuel innovation.
 
-Known as a **fast learner**, I quickly adapt to new tools and environments, and bring a proactive, collaborative mindset to every project. Whether working with **Python, SQL, or Tableau**, I focus on transforming complex datasets into clear insights and recommendations that drive smarter decisions.
+At <strong>Parexel</strong>, a global biopharmaceutical services company, I identified inefficiencies in financial workflows and implemented process improvements that resulted in over <strong>$50,000 in annual cost savings</strong>. This experience sharpened my ability to bridge business needs with technical solutions—delivering tangible, data-driven results.
+
+Known as a <strong>fast learner</strong>, I quickly adapt to new tools and environments, and bring a proactive, collaborative mindset to every project. Whether working with <strong>Python, SQL, or Tableau</strong>, I focus on transforming complex datasets into clear insights and recommendations that drive smarter decisions.
 
 I’m excited to apply my analytical skills, industry curiosity, and purpose-driven approach to help organizations make better decisions—and make a difference.
 
