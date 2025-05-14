@@ -1,9 +1,9 @@
 ---
 title: "Experience"
-layout: default
 permalink: /experience/
 ---
 
+<style>
 .exp-card {
   background: #f9f9f9;
   border-left: 4px solid #1a73e8;
@@ -39,6 +39,7 @@ permalink: /experience/
   border-left: 4px solid #4caf50;
   padding: 1.2rem 1.5rem;
   border-radius: 6px;
+  margin-top: 3rem;
 }
 </style>
 
@@ -77,27 +78,25 @@ permalink: /experience/
   <div class="subhead">Aramark – Page, Arizona</div>
   <div class="date">Jul 2022 – Oct 2022</div>
   <ul>
-    <li>Greeted and seated guests, ensuring a positive dining experience</li>
-    <li>Handled cash and card transactions with accuracy</li>
-    <li>Performed end-of-day cash balancing</li>
+    <li>Greeted and seated guests, ensuring a positive dining experience.</li>
+    <li>Handled cash and card transactions with accuracy.</li>
+    <li>Performed end-of-day cash balancing.</li>
   </ul>
 </div>
 
----
-
-## Career Goals & Professional Vision
-
 <div class="vision-section">
-  <p>I aim to work in data-driven roles that blend <strong>technical proficiency with business impact</strong>. My passion lies in applying <strong>data analytics, machine learning, and visualization tools</strong> like Python, SQL, and Tableau to solve real-world problems in <strong>industries that benefit society</strong>—such as <strong>healthcare, technology, education, and clean energy</strong>.</p>
-
-  <p>I’m a fast learner, deeply motivated, and always seeking to contribute to organizations that value <strong>analytical thinking, innovation, and purpose-driven outcomes</strong>.</p>
-
-  <p>I'm eager to grow in roles such as:</p>
+  <h3>Career Goals & Professional Vision</h3>
+  <p>
+    I aim to work in data-driven roles that blend <strong>technical proficiency with business impact</strong>. My passion lies in applying <strong>data analytics, machine learning, and visualization tools</strong> like Python, SQL, and Tableau to solve real-world problems in <strong>industries that benefit society</strong>—such as <strong>healthcare, technology, education, and clean energy</strong>.
+  </p>
+  <p>
+    I’m a fast learner, deeply motivated, and always seeking to contribute to organizations that value <strong>analytical thinking, innovation, and purpose-driven outcomes</strong>.
+  </p>
+  <p>I’m eager to grow in roles such as:</p>
   <ul>
     <li>Business Analyst / Data Analyst</li>
     <li>Product or Strategy Analyst</li>
     <li>Analytics in Finance, Healthcare, or Social Impact Tech</li>
   </ul>
-
   <p>If you're looking for someone who combines <strong>insightful analysis</strong> with <strong>real-world adaptability</strong>, I’d love to connect.</p>
 </div>
