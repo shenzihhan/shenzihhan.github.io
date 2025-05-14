@@ -1,17 +1,8 @@
 ---
-title: "Projects"
+title: "Selective Projects"
+layout: default
 permalink: /projects/
 ---
-
-<style>
-.site-header {
-  position: sticky;
-  top: 0;
-  z-index: 10;
-  background: white;
-  border-bottom: 1px solid #eee;
-}
-</style>
 
 .project-card {
   background: #f9f9f9;
