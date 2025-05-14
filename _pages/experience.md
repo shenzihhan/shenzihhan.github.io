@@ -1,47 +1,64 @@
 ---
 title: "Experience"
+layout: default
 permalink: /experience/
 ---
 
 <style>
+.experience-wrapper {
+  max-width: 880px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+
 .exp-card {
   background: #f9f9f9;
   border-left: 4px solid #1a73e8;
   padding: 1.2rem 1.5rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
   border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
 }
+
 .exp-card h3 {
-  margin: 0 0 0.2rem 0;
+  margin: 0 0 0.3rem 0;
   font-size: 1.2rem;
 }
+
 .exp-card .subhead {
   font-weight: bold;
   color: #333;
 }
+
 .exp-card .date {
   font-style: italic;
   color: #555;
   margin-bottom: 0.2rem;
 }
+
 .exp-card .manager {
   font-size: 0.95rem;
   color: #666;
   margin-bottom: 0.5rem;
 }
+
 .exp-card ul {
   margin-top: 0.3rem;
   padding-left: 1.2rem;
   line-height: 1.6;
 }
+
 .vision-section {
   background: #fefefe;
   border-left: 4px solid #4caf50;
   padding: 1.2rem 1.5rem;
   border-radius: 6px;
   margin-top: 3rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
 }
 </style>
+
+<div class="experience-wrapper">
 
 ## Work Experience
 
@@ -99,4 +116,6 @@ permalink: /experience/
     <li>Analytics in Finance, Healthcare, or Social Impact Tech</li>
   </ul>
   <p>If you're looking for someone who combines <strong>insightful analysis</strong> with <strong>real-world adaptability</strong>, I’d love to connect.</p>
+</div>
+
 </div>
