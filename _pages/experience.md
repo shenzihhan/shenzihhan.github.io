@@ -4,6 +4,15 @@ permalink: /experience/
 ---
 
 <style>
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: white;
+  border-bottom: 1px solid #eee;
+}
+</style>
+
 .exp-card {
   background: #f9f9f9;
   border-left: 4px solid #1a73e8;
