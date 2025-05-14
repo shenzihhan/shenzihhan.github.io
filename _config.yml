@@ -1,11 +1,15 @@
 title: "Zih-Han Shen"
-description: "Data Analytics Portfolio"
 theme: minima
-
 plugins:
   - jekyll-seo-tag
 
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# 導覽列顯示的頁面
 header_pages:
   - _pages/about.md
-  - _pages/experience.md
   - _pages/projects.md
+  - _pages/experience.md
