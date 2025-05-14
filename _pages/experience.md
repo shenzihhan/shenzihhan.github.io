@@ -60,7 +60,7 @@ permalink: /experience/
 
 <div class="experience-wrapper">
 
-## Work Experience
+<h2 style="font-size: 1.6rem; font-weight: bold; margin-top: 2rem;">Work Experience</h2>
 
 <div class="exp-card">
   <h3>Corporate Finance Specialist</h3>
