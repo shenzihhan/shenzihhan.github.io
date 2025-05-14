@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem;">
-  <img src="/assets/img/profile.jpg" alt="Zih-Han Shen" style="max-width: 250px; border-radius: 10px;" />
+  <img src="https://github.com/shenzihhan.png" alt="Zih-Han Shen" style="max-width: 250px; border-radius: 10px;" />
   <div>
 
 Hi, I’m **Zih-Han Shen**, a Master of Business Analytics graduate from Arizona State University’s W. P. Carey School of Business, with a strong foundation in data analytics, financial optimization, and strategic problem-solving.
