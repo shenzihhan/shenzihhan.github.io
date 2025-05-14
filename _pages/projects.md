@@ -4,38 +4,54 @@ layout: default
 permalink: /projects/
 ---
 
+<style>
+.project-container {
+  max-width: 880px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+
 .project-card {
   background: #f9f9f9;
   border-left: 4px solid #1a73e8;
   padding: 1.2rem 1.5rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
   border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
 }
+
 .project-card h3 {
   margin: 0 0 0.3rem 0;
-  font-size: 1.25rem;
+  font-size: 1.3rem;
 }
+
 .project-card h3 a {
   color: #1a73e8;
   text-decoration: none;
 }
+
 .project-card h3 a:hover {
   text-decoration: underline;
 }
+
 .project-card p {
   margin: 0.6rem 0 0.8rem 0;
   line-height: 1.6;
   color: #333;
 }
+
 .project-card ul {
   margin: 0.6rem 0 0.8rem 1.2rem;
 }
+
 .project-card .skills {
   color: #666;
   font-size: 0.9rem;
-  margin-top: 0.3rem;
+  margin-top: 0.6rem;
 }
 </style>
+
+<div class="project-container">
 
 <div class="project-card">
   <h3><a href="https://github.com/shenzihhan/Donor-Analytics/tree/main" target="_blank">Donor Analytics and Fundraising Strategy for Scouting Arizona</a></h3>
@@ -85,4 +101,6 @@ permalink: /projects/
     <li>Developed KPI dashboards for real-time monitoring and long-term sustainability</li>
   </ul>
   <div class="skills"><strong>Skills:</strong> Lean Process Improvement · Lean Six Sigma · Process Optimization · Healthcare Analytics · Data Visualization</div>
+</div>
+
 </div>
