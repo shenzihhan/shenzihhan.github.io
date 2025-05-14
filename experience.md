@@ -23,7 +23,6 @@ Senior Manager: [Aris Lu](https://www.linkedin.com/in/aris-lu-2b7b2b87/)
 
 ### **Headhunter Intern**  
 **PeopleSearch – Taipei, Taiwan**  
-
 _Jan 2023 – May 2023_  
 Team Manager: [Ann Lee](https://www.linkedin.com/in/annleepst/)
 
