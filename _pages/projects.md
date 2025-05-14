@@ -50,6 +50,7 @@ permalink: /projects/
   margin-top: 0.6rem;
 }
 </style>
+<h2 style="font-size: 1.6rem; font-weight: bold; margin-top: 2rem;">Selective Projects</h2>
 
 <div class="project-container">
 
