@@ -4,70 +4,88 @@ permalink: /projects/
 ---
 
 <style>
-.project-block {
-  padding: 1.2rem;
+.project-card {
+  background: #f9f9f9;
+  border-left: 4px solid #1a73e8;
+  padding: 1.2rem 1.5rem;
   margin-bottom: 1.5rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  background: #fafafa;
+  border-radius: 6px;
 }
-.project-block h3 {
-  margin-top: 0;
-  margin-bottom: 0.3rem;
+.project-card h3 {
+  margin: 0 0 0.3rem 0;
+  font-size: 1.25rem;
   color: #1a73e8;
 }
-.project-block p {
-  margin-top: 0.5rem;
+.project-card p {
+  margin: 0.6rem 0 0.8rem 0;
   line-height: 1.6;
   color: #333;
 }
-.project-block .skills {
-  color: #777;
+.project-card ul {
+  margin: 0.6rem 0 0.8rem 1.2rem;
+}
+.project-card .link {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
+.project-card .skills {
+  color: #666;
   font-size: 0.9rem;
-  margin-top: 0.7rem;
+  margin-top: 0.3rem;
 }
 </style>
 
-<div class="project-block">
-  <h3><a href="https://github.com/shenzihhan/Donor-Analytics" target="_blank">Donor Analytics and Fundraising Strategy for Scouting Arizona</a></h3>
-  <p>
-    Partnered with Grand Canyon Council to reverse donation stagnation by building a donor segmentation and predictive analytics framework.
-    Applied RFM analysis and K-Means clustering to classify 65K+ donors, and built a Random Forest model with R² = 0.95 to forecast donation value.
-  </p>
-  <div class="skills">Skills: Python · SQL · Predictive Modeling · RFM Analysis</div>
+<div class="project-card">
+  <h3>Donor Analytics and Fundraising Strategy for Scouting Arizona</h3>
+  <p>Partnered with Grand Canyon Council, Scouting America, to reverse donation stagnation by building a donor segmentation and predictive analytics framework that supports targeted fundraising campaigns.</p>
+  <ul>
+    <li>Applied RFM analysis and K-Means clustering to classify 65K+ donor records into actionable segments</li>
+    <li>Built Random Forest model to predict donation value using 2020–2023 giving behavior, achieving R² = 0.95 on test data</li>
+    <li>Designed tailored strategies by donor persona and geography</li>
+    <li>Integrated synthetic donor profiles to fill data gaps and simulate campaign scenarios for A/B testing and CRM readiness</li>
+  </ul>
+  <div class="link"><a href="https://github.com/shenzihhan/Donor-Analytics/tree/main" target="_blank">GitHub Repository</a></div>
+  <div class="skills"><strong>Skills:</strong> Data Analytics · Predictive Modeling · Python · SQL · RFM Analysis</div>
 </div>
 
-<div class="project-block">
-  <h3><a href="https://github.com/shenzihhan/covid-bar-sentiment-nlp" target="_blank">AI-Powered Sentiment Analysis for California Bars During COVID-19</a></h3>
-  <p>
-    Analyzed 119K+ Yelp reviews using BERT and VADER to extract sentiment patterns, customer behavior, and emotional trends during the pandemic.
-    Supported recovery planning for small businesses.
-  </p>
-  <div class="skills">Skills: NLP · BERT · VADER · Python</div>
+<div class="project-card">
+  <h3>AI-Powered Sentiment and Customer Insight Analysis for California Bars During COVID-19</h3>
+  <p>Applied sentiment analysis with BERT and VADER on 119K+ Yelp reviews to uncover customer emotions, loyalty patterns, and behavioral trends, supporting recovery planning for bar owners.</p>
+  <div class="link"><a href="https://github.com/shenzihhan/covid-bar-sentiment-nlp/blob/main/README.md" target="_blank">GitHub Repository</a></div>
+  <div class="skills"><strong>Skills:</strong> Sentiment Analysis · Natural Language Processing (NLP)</div>
 </div>
 
-<div class="project-block">
-  <h3><a href="https://github.com/shenzihhan/Retail-Inventory-Optimization" target="_blank">Production Scheduling & Inventory Optimization</a></h3>
-  <p>
-    Built a linear programming model in Excel Solver to restock and discount five product categories, boosting profit to $693K.
-  </p>
-  <div class="skills">Skills: Excel Solver · Optimization · Linear Programming</div>
+<div class="project-card">
+  <h3>Production Scheduling and Inventory Optimization Using Linear Programming</h3>
+  <ul>
+    <li>Built an Excel-based linear programming model using Solver to optimize restocking and discount strategies across five product categories</li>
+    <li>Maximized total profit to $693K through data-driven inventory and pricing decisions, addressing seasonal demand, limited storage, and varying margins</li>
+  </ul>
+  <div class="link"><a href="https://github.com/shenzihhan/Retail-Inventory-Optimization/blob/main/README.md" target="_blank">GitHub Repository</a></div>
+  <div class="skills"><strong>Skills:</strong> Linear Programming · Excel Solver</div>
 </div>
 
-<div class="project-block">
-  <h3><a href="https://github.com/shenzihhan/classroom-emotion-system" target="_blank">Real-Time Facial Emotion Recognition for Classrooms</a></h3>
-  <p>
-    Developed a full-stack system using Haar Cascade + Mini-Xception to detect student emotion and estimate attention scores.
-    Achieved >90% accuracy in real time, with privacy-preserving design and fairness evaluation across ethnic groups.
-  </p>
-  <div class="skills">Skills: Deep Learning · OpenCV · Python · Computer Vision</div>
+<div class="project-card">
+  <h3>Real-Time Facial Emotion Recognition for Student Engagement in Classrooms</h3>
+  <ul>
+    <li>Built a computer vision pipeline with Haar Cascade for face detection and Mini-Xception (FER2013) for emotion classification</li>
+    <li>Achieved binary emotion classification accuracy >90%, enabling reliable attention monitoring within 2-second latency</li>
+    <li>Designed a privacy-conscious system with anonymous session IDs and no face data storage</li>
+    <li>Proposed fairness improvements by evaluating bias (e.g., ethnicity imbalance) and testing simplified emotion labels</li>
+  </ul>
+  <div class="link"><a href="https://github.com/shenzihhan/classroom-emotion-system" target="_blank">GitHub Repository</a></div>
+  <div class="skills"><strong>Skills:</strong> Computer Vision · Python · Deep Learning · OpenCV · Emotion Recognition</div>
 </div>
 
-<div class="project-block">
-  <h3><a href="https://github.com/shenzihhan/lean-six-sigma-healthcare" target="_blank">Reducing Chemotherapy Waiting Time Using Lean Six Sigma</a></h3>
-  <p>
-    Applied DMAIC methodology to reduce outpatient waiting time by 45% and increased patient satisfaction from 57.3% to 90%.
-    Designed process KPIs and implemented scheduling changes for long-term sustainability.
-  </p>
-  <div class="skills">Skills: Lean Six Sigma · Process Redesign · Healthcare Analytics</div>
+<div class="project-card">
+  <h3>Reducing Outpatient Chemotherapy Waiting Times Using Lean Six Sigma</h3>
+  <p>Implemented a Lean Six Sigma project targeting reductions in outpatient chemotherapy waiting times and enhancing patient experience.</p>
+  <ul>
+    <li>Applied Lean Six Sigma (LSS) and DMAIC methodology to optimize outpatient chemotherapy processes</li>
+    <li>Achieved a 45% reduction in average waiting time, lowering it from 109 minutes to 60 minutes</li>
+    <li>Increased patient satisfaction from 57.3% to 90% through workflow redesign, priority scheduling, and optimized bed allocation</li>
+    <li>Developed KPI dashboards for real-time monitoring and long-term sustainability</li>
+  </ul>
+  <div class="link"><a href="https://github.com/shenzihhan/lean-six-sigma-healthcare" target="_blank">GitHub Repository</a></div>
+  <div class="skills"><strong>Skills:</strong> Lean Process Improvement · Lean Six Sigma · Process Optimization · Healthcare Analytics · Data Visualization</div>
 </div>
