@@ -1,0 +1,11 @@
+title: "Zih-Han Shen"
+description: "Data Analytics Portfolio"
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+
+header_pages:
+  - _pages/about.md
+  - _pages/experience.md
+  - _pages/projects.md
