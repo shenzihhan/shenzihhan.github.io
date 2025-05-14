@@ -34,8 +34,8 @@ Team Manager: [Ann Lee](https://www.linkedin.com/in/annleepst/)
 ---
 
 ### **Hostess / Cashier**  
-**Aramark – Page, Arizona**
-_Jul 2022 – Oct 2022_  
+**Aramark – Page, Arizona**  
+_Jul 2022 – Oct 2022_
 
 - Greeted and seated guests, ensuring a positive dining experience  
 - Handled cash and card transactions with accuracy  
