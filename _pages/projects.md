@@ -76,7 +76,7 @@ permalink: /projects/
   <h3><a href="https://github.com/shenzihhan/Retail-Inventory-Optimization/blob/main/README.md" target="_blank">Production Scheduling and Inventory Optimization Using Linear Programming</a></h3>
   <ul>
     <li>Built an Excel-based linear programming model using Solver to optimize restocking and discount strategies across five product categories</li>
-    <li>Maximized total profit to $693K through data-driven inventory and pricing decisions, addressing seasonal demand, limited storage, and varying margins</li>
+    <li>Maximized total profit to $530K through data-driven inventory and pricing decisions, addressing seasonal demand, limited storage, and varying margins</li>
   </ul>
   <div class="skills"><strong>Skills:</strong> Linear Programming · Excel Solver</div>
 </div>
