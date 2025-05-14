@@ -4,6 +4,16 @@ permalink: /about/
 ---
 
 <style>
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: white;
+  border-bottom: 1px solid #eee;
+}
+</style>
+
+
 /* Container and image layout */
 .about-wrapper {
   display: flex;
