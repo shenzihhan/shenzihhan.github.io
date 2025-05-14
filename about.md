@@ -27,9 +27,9 @@ I’m excited to apply my analytical skills, industry curiosity, and purpose-dri
 ---
 
 ### Contact
-- 📧 Email: shenzihhan@gmail.com  
-- 🔗 LinkedIn: [Zih-Han Shen](https://www.linkedin.com/in/zih-han-shen-552983286/)  
-- <i class="fab fa-github"></i> [GitHub: shenzihhan](https://github.com/shenzihhan)
+- Email: shenzihhan@gmail.com  
+- LinkedIn: [Zih-Han Shen](https://www.linkedin.com/in/zih-han-shen-552983286/)  
+- Github: [GitHub: shenzihhan](https://github.com/shenzihhan)
 
   </div>
 </div>
