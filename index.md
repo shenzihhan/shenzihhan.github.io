@@ -10,7 +10,7 @@ layout: default
   <h1 style="margin-bottom: 0.5rem; font-size: 2rem; color: #222;">Zih-Han Shen</h1>
   <p style="font-size: 1.1rem; color: #666;">Master of Business Analytics Graduate · Data Analyst · Problem Solver</p>
   <p style="max-width: 700px; margin-top: 1rem; color: #444; line-height: 1.6;">
-    I specialize in transforming complex data into clear, actionable insights. With hands-on experience in <strong>predictive modeling, business reporting, and data visualization</strong>, I’m passionate about using data to drive strategic decisions in industries that make a difference — including <strong>healthcare, technology, and renewable energy</strong>.
+    I specialize in transforming complex data into clear, actionable insights. With hands-on experience in <strong>predictive modeling, business reporting, and data visualization</strong>, I’m passionate about using data to drive strategic decisions in industries that make a difference.
   </p>
 </div>
 
